@@ -1,0 +1,9 @@
+nav{
+    background-color:black;
+    color:rgb(108, 108, 236);
+    text-align: center;
+}
+button:hover{
+ background-color: darkslategray;
+ 
+}
